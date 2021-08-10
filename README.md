@@ -21,4 +21,4 @@ app.cliApp(); //for express version
 
 ```
 
-
+![image](https://user-images.githubusercontent.com/76931326/128947489-f5cb7c85-8a36-4e67-9cfd-0a142d803668.png)
